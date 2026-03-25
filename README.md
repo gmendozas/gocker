@@ -1,0 +1,2 @@
+# gocker
+Dockerized Golang project
