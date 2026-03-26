@@ -10,10 +10,16 @@ This projects allows to comprehend how to use docker with a Go project, for furt
 ## Project structure
 
 .
+├── assets
+
 ├── .dockerignore
+
 ├── dockerfile
+
 ├── go.mod
+
 ├── index.html
+
 └── main.go
 
 ## Testing the project
@@ -30,4 +36,4 @@ Run docker:
 docker run -p 8080:8080 go-app
 ```
 
-![Screenshot of the solution running on a web browser](/assets/localhost.png)
+![Screenshot of the solution running on a web browser](https://github.com/gmendozas/gocker/tree/main/assets/localhost.png)
